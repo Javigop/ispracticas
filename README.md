@@ -25,4 +25,4 @@ sadfsdf
 sdafa
 ```
 
-![logo de la uco](https://cordobacofradiera.files.wordpress.com/2013/12/logo-uco.jpg)
+![logo de la uco](https://cordobacofradiera.files.wordpress.com/2013/12/o.jpg)
