@@ -9,3 +9,8 @@
 * lista 1
 * lista 3
   * lista 4
+
+# encabezado 1
+## encabezado 2
+### encabezado 3
+#### se permiten hasta 6
